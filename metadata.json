@@ -1,0 +1,8 @@
+{
+  "name": "New Jyoti Sweets Restaurant ",
+  "description": "A high-end website for New Jyoti Sweets, blending traditional Indian heritage with modern hygiene standards. Featuring authentic flavors from Prayagraj The city of stars and pride",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
